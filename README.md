@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tarun Kumar 👋
 
-<!--
-**Tarun-7092/Tarun-7092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer  
+🚀 Building web apps with React, Node.js, Express, and MongoDB  
+🤖 Exploring AI/ML integrations and real-world projects  
+🎨 Interested in modern UI/UX and interactive web experiences  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React.js
+- Node.js & Express
+- MongoDB
+- Tailwind CSS
+- Python
+- FastAPI
+- Three.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- AI Code Reviewer
+- Vehicle Breakdown Prediction System
+- Doctor Appointment App
+- Developer Portfolio
+
+## 🌐 Connect With Me
+- GitHub: [your-github-link]
+- LinkedIn: [your-linkedin-link]
+
+---
+⭐ Always learning and building new things
