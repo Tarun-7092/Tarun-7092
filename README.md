@@ -1,7 +1,28 @@
-# Hi, I'm Tarun 👋
+# Hi, I'm Tarun Kumar 👋
 
-Full-stack developer passionate about building modern web applications and AI-powered projects using React, Node.js, MongoDB, and Python.
+💻 Full-Stack Developer  
+🚀 Building web apps with React, Node.js, Express, and MongoDB  
+🤖 Exploring AI/ML integrations and real-world projects  
+🎨 Interested in modern UI/UX and interactive web experiences  
 
-🚀 Currently working on full-stack and machine learning projects  
-🎨 Interested in clean UI/UX and interactive experiences  
-📚 Always learning and exploring new technologies
+## 🛠 Tech Stack
+- React.js
+- Node.js & Express
+- MongoDB
+- Tailwind CSS
+- Python
+- FastAPI
+- Three.js
+
+## 📌 Featured Projects
+- AI Code Reviewer
+- Vehicle Breakdown Prediction System
+- Doctor Appointment App
+- Developer Portfolio
+
+## 🌐 Connect With Me
+- GitHub: [your-github-link]
+- LinkedIn: [your-linkedin-link]
+
+---
+⭐ Always learning and building new things
