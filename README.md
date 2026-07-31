@@ -21,8 +21,8 @@
 - Developer Portfolio
 
 ## 🌐 Connect With Me
-- GitHub: [your-github-link]
-- LinkedIn: [your-linkedin-link]
+- GitHub: https://github.com/Tarun-7092
+- LinkedIn: https://www.linkedin.com/in/tarun-kumar32
 
 ---
 ⭐ Always learning and building new things
